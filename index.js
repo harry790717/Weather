@@ -46,7 +46,7 @@ async function WriteDB(DataStr,c){
 	//config for your database
 	 var config={ 
 		user:'HarryAdmin', 
-		password:'Harry0989011436',
+		password:'',
 		server:'harrydbservice.database.windows.net', 
 		database:'HarryDB',
 		encrypt:true 
